@@ -17,7 +17,7 @@ To run the shopping list manager on your local machine, follow these steps:
 
 1. Clone this repository to your local machine using `git clone`.
 2. Navigate to the project directory.
-3. Run the `shopping_list_manager.py` file using Python.
+3. Run the `shopping_list_app.py` file using Python.
 
 
 That's it! You can now start managing your shopping lists with the program.
